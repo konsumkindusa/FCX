@@ -26,13 +26,16 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.Active_1__c</members>
         <members>Account.Active__c</members>
+        <members>Account.Autorabittest__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.NumberofLocations__c</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>AutoRabit_Test__c.Test1__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
@@ -52,6 +55,10 @@
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>AutoRabit_Test__c</members>
+        <name>CustomObject</name>
     </types>
     <types>
         <members>unfiled$public/MarketingProductInquiryResponse</members>
@@ -83,6 +90,7 @@
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>AutoRabit_Test__c-AutoRabit Test Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Case-Case %28Marketing%29 Layout</members>
@@ -280,10 +288,18 @@
         <name>Role</name>
     </types>
     <types>
+        <members>AutoRabit_Test__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
         <members>Account.Billing</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
+    </types>
+    <types>
+        <members>AutoRabit_Test__c</members>
+        <name>Workflow</name>
     </types>
 </Package>
