@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>37.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>Case.Standard</members>
         <members>Lead.Standard</members>
@@ -26,6 +24,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.Account_Number__c</members>
         <members>Account.Active_1__c</members>
         <members>Account.Active__c</members>
         <members>Account.Autorabittest__c</members>
@@ -108,6 +107,7 @@
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
+        <members>FeedItem-Feed Item Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
@@ -302,4 +302,5 @@
         <members>AutoRabit_Test__c</members>
         <name>Workflow</name>
     </types>
+    <version>37.0</version>
 </Package>
