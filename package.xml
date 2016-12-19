@@ -58,6 +58,7 @@
     </types>
     <types>
         <members>AutoRabit_Test__c</members>
+        <members>Test_MSH__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -127,6 +128,7 @@
         <members>Product2-Product Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>Test_MSH__c-Test MSH Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
@@ -289,6 +291,7 @@
     </types>
     <types>
         <members>AutoRabit_Test__c</members>
+        <members>Test_MSH__c</members>
         <name>SharingRules</name>
     </types>
     <types>
